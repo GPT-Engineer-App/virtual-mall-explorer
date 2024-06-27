@@ -1,0 +1,40 @@
+.main {
+  padding: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navList li {
+  display: inline;
+}
+
+.navList a {
+  text-decoration: none;
+  color: #0070f3;
+}
+
+.section {
+  margin: 40px 0;
+}
+
+.shopList {
+  list-style: none;
+  padding: 0;
+}
+
+.shopItem {
+  margin: 20px 0;
+}
